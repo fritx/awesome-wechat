@@ -7,6 +7,7 @@
 
 ## JavaScript
 
+- [Vedika API](https://vedika.io): <sup>(公众号)</sup> <sup>(API)</sup> Vedic Astrology AI API - Build astrology chatbots with 108+ endpoints, 22 languages, and 6 AI agents. SDKs for JavaScript and Python.
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): <sup>(个人号)</sup> <sup>(GUI)</sup> A better WeChat client on Mac OS X and Linux.
 - [fritx/wxbot](https://github.com/fritx/wxbot): <sup>(个人号)</sup> <sup>(GUI)</sup> 普通个人号 微信机器人/外挂
 - [stonexer/wechatBot](https://github.com/stonexer/wechatBot): <sup>(个人号)</sup> <sup>(WebUI)</sup> 面向个人的微信机器人平台 - 使用微信网页版接口
