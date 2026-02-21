@@ -45,6 +45,11 @@
 - [goofansu/wechat-starter](https://github.com/goofansu/wechat-starter): <sup>(公众号)</sup> <sup>(Framework)</sup> Template for developing wechat in rails.
 
 
+## Rust
+
+- [Zlatanwic/weixin-mcp-rs](https://github.com/Zlatanwic/Wechat-Read-MCP-in-Rust): <sup>(公众号)</sup> <sup>(Framework)</sup> 一个基于Rust语言的MCP服务器，可通过Chrome浏览器读取微信公众号文章
+
+
 ## Elixir
 
 - [goofansu/wechat-elixir](https://github.com/goofansu/wechat-elixir): <sup>(公众号)</sup> <sup>(CLI)</sup> Wechat sdk for Elixir
