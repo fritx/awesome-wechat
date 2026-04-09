@@ -31,6 +31,7 @@
 - [lyyyuna/wechat_robot](https://github.com/lyyyuna/wechat_robot): <sup>(个人号)</sup> <sup>(CLI)</sup> 微信聊天机器人（个人账号，非订阅号）
 - [whtsky/WeRoBot](https://github.com/whtsky/WeRoBot): <sup>(公众号)</sup> <sup>(SDK)</sup> WeRoBot是一个微信机器人框架
 - [jeffkit/wechat](https://github.com/jeffkit/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> A wechat python SDK
+- [hi-xXX/wecombot](https://github.com/hi-xXX/wecombot): <sup>(企业号)</sup> <sup>(Framework)</sup> 企业微信 AI 智能客服机器人框架，内置多模型 LLM 对话、客服 API 完整封装、消息加解密与 FastAPI webhook 服务
 
 
 ## PHP
