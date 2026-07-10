@@ -31,6 +31,7 @@
 - [lyyyuna/wechat_robot](https://github.com/lyyyuna/wechat_robot): <sup>(个人号)</sup> <sup>(CLI)</sup> 微信聊天机器人（个人账号，非订阅号）
 - [whtsky/WeRoBot](https://github.com/whtsky/WeRoBot): <sup>(公众号)</sup> <sup>(SDK)</sup> WeRoBot是一个微信机器人框架
 - [jeffkit/wechat](https://github.com/jeffkit/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> A wechat python SDK
+- [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa): <sup>(个人号)</sup> <sup>(GUI)</sup> 基于多模态视觉感知与LLM Agent的macOS微信自动化框架。不碰微信协议、不读数据库，用AI视觉"看"微信界面自动回复消息。支持记忆系统、数字分身、多Agent架构、智能家居/3D打印Skill。Python / AppleScript / 多模态LLM / 向量数据库。MIT License。
 
 
 ## PHP
