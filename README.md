@@ -18,6 +18,7 @@
 - [fritx/wxchangba](https://github.com/fritx/wxchangba): <sup>(公众号)</sup> <sup>(App)</sup> 微信唱吧: 基于node.js和微信jssdk的校园轻应用
 - [fritx/share.wx](https://github.com/fritx/share.wx): <sup>(公众号)</sup> <sup>(App)</sup> 微信jssdk 分享生成器
 - [fritx/mp.wx](https://github.com/fritx/mp.wx): <sup>(公众号)</sup> <sup>(Framework)</sup> 微信公众号项目后端架构
+- [sweesama/readgzh](https://github.com/sweesama/readgzh): <sup>(公众号)</sup> <sup>(WebUI/API/MCP)</sup> 将已有公开公众号文章链接转换为适合 AI 阅读的正文或 Markdown，提供网页、REST API 和远程 MCP 服务。
 
 
 ## Python
