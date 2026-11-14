@@ -13,6 +13,7 @@
 - [HalfdogStudio/wechat-user-bot](https://github.com/HalfdogStudio/wechat-user-bot): <sup>(个人号)</sup> <sup>(CLI)</sup> 正在组装中的微信机器人
 - [zixia/wechaty](https://github.com/zixia/wechaty): <sup>(个人号)</sup> <sup>(SDK)</sup> Wechat for Bot. Powered by WebDriver & Node.js
 - [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u): <sup>(个人号)</sup> <sup>(SDK)</sup> 微信网页版接口的JavaScript实现，兼容Node和浏览器
+- [geekkkk404/any2wechat](https://github.com/geekkkk404/any2wechat): <sup>(个人号)</sup> <sup>(CLI)</sup> 任意 HTTP 项目 → 个人微信推送桥：webhook 收入站消息，微信 iLink 协议发出（基于腾讯官方 MIT 协议层 openclaw-weixin），支持文本/图片与长文分批。MIT License
 - [baoshan/wx](https://github.com/baoshan/wx): <sup>(公众号)</sup> <sup>(SDK)</sup> (minimalist) WeChat Middleware for Express.js
 - [node-webot/wechat](https://github.com/node-webot/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 微信公共平台消息接口服务中间件
 - [fritx/wxchangba](https://github.com/fritx/wxchangba): <sup>(公众号)</sup> <sup>(App)</sup> 微信唱吧: 基于node.js和微信jssdk的校园轻应用
@@ -63,3 +64,4 @@
 - [wechatircd——用IRC客户端控制微信网页版](https://maskray.me/blog/2016-02-21-wechatircd)
 - [挖掘微信Web版通信的全过程](http://www.tanhao.me/talk/1466.html/)
 - [微信协议简单调研笔记](http://www.blogjava.net/yongboy/archive/2015/11/05/410636.html)
+- [微信 iLink bot 协议实战笔记（2026-11 生产实测，附英文版）](https://github.com/geekkkk404/trendradar2wechat/blob/main/docs/ilink-protocol-notes.md)：QR 授权状态机 / sendmessage·getupdates 报文结构 / context_token 回传机制与 ~30 分钟 TTL / ret=0 无 message_id 的静默吞包指纹与风控教训
